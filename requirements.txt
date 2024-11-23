@@ -26,7 +26,6 @@ SQLAlchemy==2.0.30
 Scrapy==2.11.1
 Send2Trash==1.8.2
 Unidecode==1.2.0
-aext-assistant==4.0.15
 aext-assistant-server==4.0.15
 aext-core==4.0.15
 aext-core-server==4.0.15
